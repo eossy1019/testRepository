@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Moon은 거꾸로하면 곰</h1>
+	<h1>곰이짱</h1>
 </body>
 </html>
