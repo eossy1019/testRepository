@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>고고</h1>
-	<input type="text"><br>
+	고고 이어서 작업하기
+	커밋1
+
 </body>
 </html>
