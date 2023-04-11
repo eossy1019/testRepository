@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>하하하</h2>
+	<h1>고고</h1>
+	<input type="text"><br>
 </body>
 </html>
