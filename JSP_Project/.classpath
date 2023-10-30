@@ -13,5 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/dev/cos-22.05/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/dev/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/dev/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
 </classpath>
