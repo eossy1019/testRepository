@@ -78,6 +78,7 @@
 							<%--원본파일의 파일번호와 수정명을 서버에 전달하기(원본파일에 대한 처리를 위해) --%>
 							<input type="hidden" name="originFileNo" value="${at.fileNo }">
 							<input type="hidden" name="originFileName" value="${at.changeName }">
+							
 						</c:if>
 						
 						<input type="file" name="reUploadFile">

@@ -114,6 +114,7 @@ public class BoardUpdateController extends HttpServlet {
 				
 				//만약 기존에도 파일이 있었다면 파일번호와 파일명을 전달받기 
 				if(multiRequest.getParameter("originFileNo") != null) {
+					
 					//새로 첨부된 파일이 있고 기존 파일도 있다면 
 					//파일정보가 등록된 데이터에서 변경작업을 한다 update
 					//파일번호(식별자)를 이용하여 기존데이터에서 변경하기.(덮어쓰기)
